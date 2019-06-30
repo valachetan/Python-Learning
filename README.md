@@ -1,3 +1,0 @@
-# Python Learning Practice
-
-## Chapters
